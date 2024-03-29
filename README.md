@@ -1,5 +1,3 @@
-# Revised paper has been uploaded！
-
 # Requirements to use Satformer
 python==3.7.16
 pytorch==1.13.1
