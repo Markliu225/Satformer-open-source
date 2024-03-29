@@ -1,5 +1,6 @@
-# Satformer-open-source
+# Revised paper has been uploaded！
 
+# Requirements to use Satformer
 python==3.7.16
 pytorch==1.13.1
 scikit-learn==1.0.2
@@ -9,4 +10,5 @@ openpyxl==3.1.2
 lxml==5.0.0
 time
 
-# Revised paper has been uploaded
+# Unzip Dataset_generate.zip to produce datasets
+
